@@ -1,0 +1,23 @@
+{
+  "name": "javascript-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanelnw/JavaScript-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanelnw/JavaScript-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/vanelnw/JavaScript-Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
